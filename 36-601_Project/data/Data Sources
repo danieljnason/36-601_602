@@ -1,0 +1,5 @@
+station capacity: https://opendata.dc.gov/datasets/DCGIS::capital-bike-share-locations/explore?location=38.892385%2C-77.020630%2C11.97&showTable=true
+
+trips: https://s3.amazonaws.com/capitalbikeshare-data/index.html
+
+weather: https://www.ncei.noaa.gov/
